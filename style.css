@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color:white;
+    font-variant:small-caps;
+}
+#result,#camera{
+    border:10px ridge grey;
+    width:250px;
+    height:300px;
+}
+h1{
+    font-size: 100px;
+}
+
+https://teachablemachine.withgoogle.com/models/d01OlIe5o/model.json
